@@ -1,3 +1,2 @@
 # ml Assignment 1
-Toxic Comments
-First canvas assignment
+Toxic Comments -- first canvas discussion assignment uploaded
